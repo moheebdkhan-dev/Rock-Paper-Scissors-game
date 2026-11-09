@@ -1,0 +1,4 @@
+﻿  rock-paper-scissors_game.cpp
+C:\moheeb\zero_to_hero_series\course5\rock-paper-scissors\rock-paper-scissors_game\rock-paper-scissors_game\rock-paper-scissors_game.cpp(59,1): warning C4715: 'ChoicesAsString': not all control paths return a value
+C:\moheeb\zero_to_hero_series\course5\rock-paper-scissors\rock-paper-scissors_game\rock-paper-scissors_game\rock-paper-scissors_game.cpp(70,1): warning C4715: 'WinnersAsString': not all control paths return a value
+  rock-paper-scissors_game.vcxproj -> C:\moheeb\zero_to_hero_series\course5\rock-paper-scissors\rock-paper-scissors_game\x64\Debug\rock-paper-scissors_game.exe
