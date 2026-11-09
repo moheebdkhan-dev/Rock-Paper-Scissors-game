@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-game
-simple rock-paper-scissors game made with C++ to practice functional/procedural programming
+My first project, simple rock-paper-scissors game made with C++ to practice functional/procedural programming.
