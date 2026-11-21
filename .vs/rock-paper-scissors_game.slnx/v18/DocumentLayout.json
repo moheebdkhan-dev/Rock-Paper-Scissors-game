@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\moheeb\\zero_to_hero_series\\course5\\rock-paper-scissors\\rock-paper-scissors_game\\Rock-Paper-Scissors-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ACAC1-4C46-4CB6-B953-AA5C824065E5}|rock-paper-scissors_game\\rock-paper-scissors_game.vcxproj|C:\\moheeb\\zero_to_hero_series\\course5\\rock-paper-scissors\\rock-paper-scissors_game\\Rock-Paper-Scissors-game\\rock-paper-scissors_game\\rock-paper-scissors_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D7ACAC1-4C46-4CB6-B953-AA5C824065E5}|rock-paper-scissors_game\\rock-paper-scissors_game.vcxproj|solutionrelative:rock-paper-scissors_game\\rock-paper-scissors_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rock-paper-scissors_game.cpp",
+              "DocumentMoniker": "C:\\moheeb\\zero_to_hero_series\\course5\\rock-paper-scissors\\rock-paper-scissors_game\\Rock-Paper-Scissors-game\\rock-paper-scissors_game\\rock-paper-scissors_game.cpp",
+              "RelativeDocumentMoniker": "rock-paper-scissors_game\\rock-paper-scissors_game.cpp",
+              "ToolTip": "C:\\moheeb\\zero_to_hero_series\\course5\\rock-paper-scissors\\rock-paper-scissors_game\\Rock-Paper-Scissors-game\\rock-paper-scissors_game\\rock-paper-scissors_game.cpp",
+              "RelativeToolTip": "rock-paper-scissors_game\\rock-paper-scissors_game.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-21T12:46:15.852Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
